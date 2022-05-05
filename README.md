@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kat</h1>
 <h3 align="center">An open-minded full-stack web developer with a lifetime passion for technology and exploring the digital frontier.</h3>
 
-- 🔭 I’m currently working on [RetroLister](https://github.com/AdrianJustinKatMichael/RetroLister)
+- 🔭 I’m currently working on [Final Ledger](https://github.com/FinalLedger/FinalLedger)
 
 - 🌱 I’m currently learning **Java and database design**
 
