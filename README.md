@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Final Ledger](https://github.com/FinalLedger/FinalLedger)
 
-- 🌱 I’m currently learning **Java and database design**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **kathryn.n.rodriguez@gmail.com**
 
